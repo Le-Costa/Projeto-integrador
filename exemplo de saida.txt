@@ -1,0 +1,11 @@
+ "maquina": "TORNO_CNC_01",
+            "tipo": "TORNO_CNC",
+            "temperatura": 55.404,
+            "vibracao": 1.6225,
+            "rotacao": 3191,
+            "producao": 702,
+            "defeitos": 0,
+            "desgaste": 1.7,
+            "status": "OPERANDO",
+            "id": 634,
+            "timestamp": "2026-11-03T12:36:27.158Z"

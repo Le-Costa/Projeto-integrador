@@ -1,0 +1,33 @@
+Maquinas
+
+*Embaladora
+Velocidade
+temperatura
+produção
+rejeitados
+falhas
+Horas_operacao
+status
+
+*Torno CNC
+temperatura
+vibração
+rotação
+produção
+defeitos
+desgaste
+status
+
+*esteira
+velocidade
+carga
+temperatura
+vibração
+horas operação
+paradas
+status
+
+*prensa hidarulica
+
+*robô soldagem
+

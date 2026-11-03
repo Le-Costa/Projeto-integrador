@@ -7,7 +7,7 @@ url = "http://10.12.22.92:8080/maquinas"
 r = requests.get(url)
 data = r.json()
 
-#print(json.dumps(data, indent=4, ensure_ascii=False))
+print(json.dumps(data, indent=4, ensure_ascii=False))
     
 # tratamento 
 pd.DataFrame(data)
