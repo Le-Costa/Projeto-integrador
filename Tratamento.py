@@ -2,7 +2,7 @@ import requests
 import json
 import pandas as pd
 #importação do JSON
-url = "http://10.107.67.92:8080/maquinas"
+url = "http://10.12.22.92:8080/maquinas"
 
 r = requests.get(url)
 data = r.json()
